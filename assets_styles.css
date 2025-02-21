@@ -1,0 +1,21 @@
+.stButton>button {
+    width: 100%;
+    border-radius: 5px;
+    height: 3em;
+}
+
+.stTextInput>div>div>input {
+    color: #262730;
+}
+
+.reportview-container {
+    background: #ffffff;
+}
+
+.sidebar .sidebar-content {
+    background: #f0f2f6;
+}
+
+.st-bb {
+    background-color: #f0f2f6;
+}
